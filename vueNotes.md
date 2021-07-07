@@ -1,5 +1,5 @@
 ## css圆角渐变边框
-# 利用padding实现边框效果
+### 利用padding实现边框效果
 ```
 padding: 9px;
 border-radius: 20px;
